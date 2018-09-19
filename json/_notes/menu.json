@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "kategori": "burger",
+        "navn": "FB-Burger",
+        "pris": 65,
+        "kortbeskrivelse": "FB-BURGER ",
+        "langbeskrivelse": "OUR-FRESH-BEEF-PATTY-&-IRISH-CHEDDAR-TOMATO-LETTUCE-ONION-PICKLES-&-BBB-SAUCE",
+        "billede": "bacon"
+},
+    {
+        "id": 2,
+        "kategori": "burger",
+        "navn": "FB-DOUBLE-Burger",
+        "pris": 80,
+        "kortbeskrivelse": "DOUBLE-BEEF-BURGER ",
+        "langbeskrivelse": "DOUBLE-FRESH-BEEF-PATTY-&-IRISH-CHEDDAR-TOMATO-LETTUCE-ONION-PICKLES-&-BBB-SAUCE",
+        "billede": "double"
+},
+    {
+        "id": 3,
+        "kategori": "burger",
+        "navn": "PULLED-PORK-Burger",
+        "pris": 70,
+        "kortbeskrivelse": "PULLED-PORK-BURGER ",
+        "langbeskrivelse": "OUR-FRESH-BEEF-PATTY-PICKLES-&-MAYO-MUSTARD-KETCHUP",
+        "billede": "pulledpork"
+  },
+    {
+        "id": 4,
+        "kategori": "burger",
+        "navn": "CHEESE-Burger",
+        "pris": 65,
+        "kortbeskrivelse": "CHEESE-BURGER",
+        "langbeskrivelse": "DOUBLE-FRESH-BEEF-PATTY-PICKLES-IRISH-CHEDDAR-&-MAYO-MUSTARD-KETCHUP",
+        "billede": "cheese"
+  },
+    {
+        "id": 5,
+        "kategori": "burger",
+        "navn": "FRIED-CHICKEN-Burger",
+        "pris": 70,
+        "kortbeskrivelse": "FRIED-CHICKEN-BURGER ",
+        "langbeskrivelse": "FRESHLY-BATTERED-CHICKEN-BREAST-LETTUCE-&-PICKLES ",
+        "billede": "friedchicken"
+  },
+    {
+        "id": 6,
+        "kategori": "sides",
+        "navn": "HOTDOG",
+        "pris": 50,
+        "kortbeskrivelse": "SPICY-HOTDOG",
+        "langbeskrivelse": "MARQUEZ-SAUSAGE-BELL-PEPPER-ONION-RELISH-&-FRIED-ONIONS-CHIPOTLE-MAYO-&-CHIPOTLE-KETCHUP",
+        "billede": "hotdog"
+  },
+    {
+        "id": 7,
+        "kategori": "sides",
+        "navn": "FRIES",
+        "pris": 40,
+        "kortbeskrivelse": "THIN-FRIES ",
+        "langbeskrivelse": "THIN-CUT-SKIN-ON-&-PURE-POTATO",
+        "billede": "fries"
+  },
+
+    {
+        "id": 14,
+        "kategori": "sides",
+        "navn": "CHICKEN-Nuggets",
+        "pris": 40,
+        "kortbeskrivelse": "CHICKEN-NUGGETS",
+        "langbeskrivelse": "FRESHLY-BATTERED-CHICKEN-BREAST-NUGGETS",
+        "billede": "chicken"
+  },
+    {
+        "id": 8,
+        "kategori": "sides",
+        "navn": "DIP",
+        "pris": 5,
+        "kortbeskrivelse": "MAYO",
+        "langbeskrivelse": "OUR-CLASSIC-MAYO",
+        "billede": "dips"
+  },
+    {
+        "id": 12,
+        "kategori": "sides",
+        "navn": "DIP",
+        "pris": 5,
+        "kortbeskrivelse": "CHILI-MAYO",
+        "langbeskrivelse": "OUR-SMOKED-CHILI-MAYO ",
+        "billede": "dips"
+  },
+    {
+        "id": 13,
+        "kategori": "sides",
+        "navn": "DIP",
+        "pris": 10,
+        "kortbeskrivelse": "SEASON-SAUCE",
+        "langbeskrivelse": " OUR-SPECIAL-SEASONED-COCKTAIL-SAUCE ",
+        "billede": "dips"
+  },
+    {
+        "id": 9,
+        "kategori": "milkshake",
+        "navn": "MILKSHAKE",
+        "pris": 45,
+        "kortbeskrivelse": "CARAMEL-MILKSHAKE ",
+        "langbeskrivelse": "SALTED-CARAMEL-MILKSHAKE",
+        "billede": "lysmilkshake"
+  },
+    {
+        "id": 10,
+        "kategori": "milkshake",
+        "relaterede": 60,
+        "navn": "MILKSHAKE",
+        "pris": 45,
+        "kortbeskrivelse": "STRAWBERRY-MILKSHAKE ",
+        "langbeskrivelse": "STRAWBERRY-MILKSHAKE",
+        "billede": "lysrødmilkshake"
+},
+    {
+        "id": 11,
+        "kategori": "milkshake",
+        "navn": "MILKSHAKE",
+        "pris": 45,
+        "kortbeskrivelse": " OREO-MILKSHAKE",
+        "langbeskrivelse": "OREO-MILKSHAKE",
+        "billede": "prikkermilkshake"
+}
+
+]
